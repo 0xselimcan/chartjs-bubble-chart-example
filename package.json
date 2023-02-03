@@ -2,7 +2,7 @@
   "name": "chartjs-bubble-chart-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://0xselimcan.github.io/chartjs-bubble-chart-example",
+  "homepage": "https://0xselimcan.github.io/chartjs-bubble-chart-example/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
